@@ -1,4 +1,4 @@
-# Contributing to commit-linter
+# Contributing to port-scanner
 
 Thank you for considering contributing to this project! Here are the guidelines to help you get started.
 
